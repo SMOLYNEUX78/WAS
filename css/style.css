@@ -166,7 +166,6 @@ h2, h3, h4, h5, h6, figure {
   display: inline;
 }
 .fh5co-nav ul li > a {
-  text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 30px;
 }
