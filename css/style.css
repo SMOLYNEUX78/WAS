@@ -166,6 +166,7 @@ h2, h3, h4, h5, h6, figure {
   display: inline;
 }
 .fh5co-nav ul li > a {
+  text-transform: ;
   letter-spacing: 1px;
   font-size: 30px;
 }
@@ -688,7 +689,7 @@ h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-slider-wrwap .flexslider .slider-text-bg .desc {
-    background: #000;
+    background: #fff;
   }
 }
 #fh5co-slider-wrwap .flexslider .slider-text-bg .desc h2 {
@@ -1299,7 +1300,7 @@ h2, h3, h4, h5, h6, figure {
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 20px;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
 }
 #fh5co-footer .copyright .block {
@@ -1469,9 +1470,7 @@ h2, h3, h4, h5, h6, figure {
   text-decoration: none;
   top: 25px !important;
 }
-.fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #444;
-}
+
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
   border-bottom: none !important;
@@ -1593,7 +1592,7 @@ h2, h3, h4, h5, h6, figure {
 
 .btn-primary {
   background: #ea272d;
-  color: #fff;
+  color: #f16d71;
   border: 2px solid #ea272d;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -1605,7 +1604,7 @@ h2, h3, h4, h5, h6, figure {
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  background: transparent;
+  background: #f16d71;
   color: #fff;
   text-transform: uppercase;
   font-size: 14px !important;
