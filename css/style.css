@@ -689,7 +689,7 @@ h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 992px) {
   #fh5co-slider-wrwap .flexslider .slider-text-bg .desc {
-    background: #fff;
+    background: transparent;
   }
 }
 #fh5co-slider-wrwap .flexslider .slider-text-bg .desc h2 {
