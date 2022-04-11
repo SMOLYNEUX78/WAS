@@ -667,7 +667,7 @@ h2, h3, h4, h5, h6, figure {
 }
 #fh5co-slider-wrwap .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
-  background: transparent;
+  background: #f16d71;
   border: 2px solid #fff;
 }
 #fh5co-slider-wrwap .flexslider .flex-direction-nav {
